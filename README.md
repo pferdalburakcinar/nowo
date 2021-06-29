@@ -15,5 +15,5 @@
 ![nowo's github stats](https://github-readme-stats.vercel.app/api?username=nowo&count_private=true&show_icons=true&theme=radical)
 
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=nowo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=nowo&repo=github-readme-stats)](https://github.com/nowo/github-readme-stats)
 
