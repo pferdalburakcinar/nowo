@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on 100 Days of swift. I am trying to become ios developer
+- 🔭 I’m currently working on Swift Projects
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Swift
 - 🤔 I’m looking for help with Swift
