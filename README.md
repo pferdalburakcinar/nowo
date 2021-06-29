@@ -12,4 +12,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nowo&&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=merko">
+![nowo's github stats](https://github-readme-stats.vercel.app/api?username=nowo&show_icons=true&theme=radical)
+
