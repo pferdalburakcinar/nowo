@@ -17,8 +17,8 @@
 <p align="left"> 
  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org/" target="_blank"> <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRxmXUXUMr3Rv8pqz7odWm3AeWOirXjPf5y--TGBXes2Tmtr17r%26s&sp=1624947470T56f933eb5f0fb6b06240d0a3bee4d2b60b686593b5cbe455d7e637fa3042965f" alt="bash" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1187814172307800064%2FMhnwJbxw_400x400.jpg&sp=1624950995Tc7b33b4f3dfe9a67dc29c61b5f903ab7ee1ac0e857116d07871e66d404952a04" alt="flutter" width="40" height="40"/> </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="golang" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> </a>
  
 
 
