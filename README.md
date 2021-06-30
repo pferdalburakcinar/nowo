@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Swift
 - 🤔 I’m looking for help with Swift
-- 💬 Ask me about Software
+- 💬 Ask me about iOS Programming
 - 📫 How to reach me: erdalburakcinar@gmail.com
 
 <h3 align="left">Languages and Tools</h3>
