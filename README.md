@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on Swift Projects
+- 🔭 I’m currently working at Hepsiemlak.com
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Swift
 - 🤔 I’m looking for help with Swift
-- 💬 Ask me about Ios Programming
+- 💬 Ask me about Software
 - 📫 How to reach me: erdalburakcinar@gmail.com
 
 <h3 align="left">Languages and Tools</h3>
