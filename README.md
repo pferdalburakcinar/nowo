@@ -9,9 +9,7 @@
 - 💬 Ask me about iOS Programming
 - 📫 How to reach me: erdalburakcinar@gmail.com
 
-<h3 align="left">Languages and Tools</h3>
-
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 
 <p align="left"> 
  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
