@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working at Hepsiemlak.com
+- 🔭 I’m currently working at Ciceksepeti
 - 🌱 I’m currently learning Swift 
 - 👯 I’m looking to collaborate on Swift, Flutter and Golang 
 - 🤔 I’m looking for help with Swift
