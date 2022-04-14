@@ -3,10 +3,9 @@
 
 
 - 🔭 I’m currently working at Ciceksepeti
-- 🌱 I’m currently learning Swift 
-- 👯 I’m looking to collaborate on Swift, Flutter and Golang 
-- 🤔 I’m looking for help with Swift
-- 💬 Ask me about iOS Programming
+- 🌱 I’m currently learning Golang 
+- 👯 I’m looking to collaborate on Swift and Golang 
+- 🤔 I’m looking for help with Swift and Golang
 - 📫 How to reach me: erdalburakcinar@gmail.com
 
 <h3 align="left">Languages</h3>
