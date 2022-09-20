@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working at Ciceksepeti
-- 🌱 I’m currently learning Golang 
+- 🔭 I’m currently working at Property Finder
 - 👯 I’m looking to collaborate on Swift and Golang 
 - 🤔 I’m looking for help with Swift and Golang
 - 📫 How to reach me: erdalburakcinar@gmail.com
